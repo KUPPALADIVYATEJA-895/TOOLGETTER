@@ -1,0 +1,6 @@
+{
+  "name": "TOOLSUGGESTOR",
+  "description": "Smart AI tool recommender for student college projects to analyze project requirements and suggest the best free and paid tools for coding, frontend, backend, database, and deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
